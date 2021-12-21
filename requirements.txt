@@ -8,4 +8,3 @@ uvicorn
 gunicorn
 pandas_profiling
 joblib
-uvicorn
