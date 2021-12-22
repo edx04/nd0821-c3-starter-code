@@ -27,9 +27,8 @@ _Please include the metrics used and your model's performance on those metrics._
  fbeta =  0.6812386156648451
 
 ## Ethical Considerations
- 
-    NA
-   
+ The model has a lower precision with the race Amer-Indian-Eskimo this can be fix with more examples of this race
+    
 ## Caveats and Recommendations
 
     Using a bigest dataset to improve the model training
